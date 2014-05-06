@@ -6,6 +6,8 @@
 
 Para compilar la etapa x:
 > cd etapax
+
+Y luego:
 > make
 
 Para ejecutar la simulación de una etapa:
